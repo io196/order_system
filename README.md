@@ -1,0 +1,2 @@
+# idel0
+learn
