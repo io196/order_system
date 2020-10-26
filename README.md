@@ -1,2 +1,0 @@
-# idel0
-learn
