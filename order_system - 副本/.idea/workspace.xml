@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="order_system:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="610c8c83-6aca-48c9-9662-9f131beb7eb0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ioYakNYwfs93GIlj6DxHusWLOz" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/order_system_jar/order_system.jar" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Deploy to Host.order_system">
+    <configuration name="db_test" type="DEPLOY_HOST_RUN_CONFIGURATION" factoryName="Deploy to Host">
+      <option name="accountModel" />
+      <option name="accountModels" />
+      <option name="address" />
+      <option name="afterCommand" value="" />
+      <option name="alreadyReset" value="true" />
+      <option name="autoOpen" value="false" />
+      <option name="beforeCommand" value="" />
+      <option name="defaultTabIdx" value="0" />
+      <option name="ecsInstance">
+        <EcsInstance>
+          <option name="OSType" />
+          <option name="instanceId" />
+          <option name="instanceName" />
+          <option name="netType" />
+          <option name="privateIps" />
+          <option name="publicIps" />
+          <option name="regionId" />
+          <option name="tags" />
+        </EcsInstance>
+      </option>
+      <option name="ecsInstances" />
+      <option name="hostIds">
+        <list>
+          <option value="1" />
+        </list>
+      </option>
+      <option name="hostTagId" value="0" />
+      <option name="location" value="/root/project/order_system" />
+      <option name="pathOrUrl" value="E:\code\git\order_system\out\artifacts\order_system_jar\order_system.jar" />
+      <option name="tagId" value="0" />
+      <option name="terminalCommand" />
+      <option name="type" value="HOST" />
+      <option name="uploadType" value="FILE" />
+      <method v="2" />
+    </configuration>
+    <configuration name="order_system" type="DEPLOY_HOST_RUN_CONFIGURATION" factoryName="Deploy to Host">
+      <option name="accountModel" />
+      <option name="accountModels" />
+      <option name="address" />
+      <option name="afterCommand" value="" />
+      <option name="alreadyReset" value="true" />
+      <option name="autoOpen" value="false" />
+      <option name="beforeCommand" value="" />
+      <option name="defaultTabIdx" value="0" />
+      <option name="ecsInstance">
+        <EcsInstance>
+          <option name="OSType" />
+          <option name="instanceId" />
+          <option name="instanceName" />
+          <option name="netType" />
+          <option name="privateIps" />
+          <option name="publicIps" />
+          <option name="regionId" />
+          <option name="tags" />
+        </EcsInstance>
+      </option>
+      <option name="ecsInstances" />
+      <option name="hostIds">
+        <list>
+          <option value="1" />
+        </list>
+      </option>
+      <option name="hostTagId" value="0" />
+      <option name="location" value="/root/bit/apache-tomcat-8.5.57/webapps" />
+      <option name="pathOrUrl" value="E:\code\git\order_system\target\order_system.war" />
+      <option name="tagId" value="0" />
+      <option name="terminalCommand" />
+      <option name="type" value="HOST" />
+      <option name="uploadType" value="MAVEN" />
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../order_system\pom.xml" goal="clean install" />
+      </method>
+    </configuration>
+    <configuration name="userdao_test" type="DEPLOY_HOST_RUN_CONFIGURATION" factoryName="Deploy to Host">
+      <option name="accountModel" />
+      <option name="accountModels" />
+      <option name="address" />
+      <option name="afterCommand" value="" />
+      <option name="alreadyReset" value="true" />
+      <option name="autoOpen" value="false" />
+      <option name="beforeCommand" value="" />
+      <option name="defaultTabIdx" value="0" />
+      <option name="ecsInstance">
+        <EcsInstance>
+          <option name="OSType" />
+          <option name="instanceId" />
+          <option name="instanceName" />
+          <option name="netType" />
+          <option name="privateIps" />
+          <option name="publicIps" />
+          <option name="regionId" />
+          <option name="tags" />
+        </EcsInstance>
+      </option>
+      <option name="ecsInstances" />
+      <option name="hostIds">
+        <list>
+          <option value="1" />
+        </list>
+      </option>
+      <option name="hostTagId" value="0" />
+      <option name="location" value="/root/project/order_system" />
+      <option name="pathOrUrl" value="E:\code\git\order_system\out\artifacts\order_system_jar\order_system.jar" />
+      <option name="tagId" value="0" />
+      <option name="terminalCommand" />
+      <option name="type" value="HOST" />
+      <option name="uploadType" value="FILE" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="610c8c83-6aca-48c9-9662-9f131beb7eb0" name="Default Changelist" comment="" />
+      <created>1602575476740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602575476740</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="398" y="41" key="#Deploy_to_Host" timestamp="1603465297265">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="398" y="41" key="#Deploy_to_Host/0.0.1366.738@0.0.1366.738" timestamp="1603465297265" />
+    <state x="488" y="62" key="#com.intellij.ide.util.MemberChooser" timestamp="1603286343427">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="62" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1603286343427" />
+    <state x="413" y="158" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603276598098">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="158" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1603276598098" />
+    <state x="398" y="32" key="#userdao_test" timestamp="1603282735870">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="398" y="32" key="#userdao_test/0.0.1366.738@0.0.1366.738" timestamp="1603282735870" />
+    <state x="463" y="127" key="FileChooserDialogImpl" timestamp="1603282983430">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="127" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1603282983430" />
+    <state width="1322" height="165" key="GridCell.Tab.0.bottom" timestamp="1603702204100">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="165" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1603702204100" />
+    <state width="1322" height="165" key="GridCell.Tab.0.center" timestamp="1603702204099">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="165" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1603702204099" />
+    <state width="1322" height="165" key="GridCell.Tab.0.left" timestamp="1603702204099">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="165" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1603702204099" />
+    <state width="1322" height="165" key="GridCell.Tab.0.right" timestamp="1603702204100">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="165" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1603702204100" />
+    <state x="213" y="27" key="Maven.ArtifactSearchDialog" timestamp="1602581285317">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="213" y="27" key="Maven.ArtifactSearchDialog/0.0.1366.738@0.0.1366.738" timestamp="1602581285317" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1603616880240">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1603616880240" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1602582087837">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1602582087837" />
+  </component>
+</project>
